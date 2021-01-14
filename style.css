@@ -1,0 +1,67 @@
+
+
+h1{
+    color: #003049;
+    font-size: 40px;
+    font-weight: 900;
+    font-family: 'Poppins', sans-serif;
+}
+h5{
+    font-weight: bolder; 
+    color: tomato;
+    font-size: 40px;
+}
+
+
+
+
+.penguin-card{
+    border: 0;
+}
+.penguin-card img{
+    border-radius: 50px;
+    width: 100%;
+   
+
+
+}
+
+
+.penguin-card-footer{
+    border: 0;
+    background-color: white;
+}
+.categories img{
+    width: 100px;
+
+}
+.xml-cart img{
+    width: 95%;
+    margin-left: 3em;
+
+}
+.penguin-category{
+    
+    border-radius: 20px;
+}
+.penguin-category img{
+    margin-right: 2em;
+}
+.penguin-button{
+    font-size: large;
+    font-weight: bold;
+    border-radius: 5px;
+
+
+}
+.penguin-button img{
+    width: 50px;
+
+}
+
+
+
+
+
+    
+    
